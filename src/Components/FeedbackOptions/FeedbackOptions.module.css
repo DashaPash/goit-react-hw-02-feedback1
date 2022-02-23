@@ -1,0 +1,21 @@
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  background-color: #99ccb3;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #31736e;
+}
+
+.button:focus {
+  background-color: #31736e;
+}
